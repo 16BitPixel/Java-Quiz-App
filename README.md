@@ -189,23 +189,23 @@ Java-Quiz-App/
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please read our CONTRIBUTING.md file for guidelines on how to contribute to this project.
+We welcome contributions from the community! Please read our [Contributing](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
 
 ## 🔒 Security
 
-For information on reporting security vulnerabilities or learning about our security practices, please see our SECURITY.md file.
+For information on reporting security vulnerabilities or learning about our security practices, please see our [Security](SECURITY.md) file.
 
 ## 📜 Code of Conduct
 
-To ensure a welcoming and inclusive community, please review our CODE_OF_CONDUCT.md file.
+To ensure a welcoming and inclusive community, please review our [Code of Conduct](CODE_OF_CONDUCT.md) file.
 
 ## ❓ Support
 
-For help with the JavaFX Quiz App, including troubleshooting and feature requests, please refer to our SUPPORT.md file.
+For help with the JavaFX Quiz App, including troubleshooting and feature requests, please refer to our [Support](SUPPORT.md) file.
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
