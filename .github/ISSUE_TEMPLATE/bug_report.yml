@@ -62,16 +62,14 @@ body:
       default: 0
     validations:
       required: true
-      # Edit: Modify options to match your project's supported environments (e.g., "Node.js v16", "Python 3.9").
   - type: input
     id: version
     attributes:
       label: Project Version
-      description: What version of [YOUR-REPO-NAME] are you using?
+      description: What version of JavaFX Quiz App are you using?
       placeholder: e.g., v1.0.0
     validations:
       required: false
-      # Edit: Replace [YOUR-REPO-NAME] with your project name. Make required: true if version is critical.
   - type: textarea
     id: screenshots
     attributes:
